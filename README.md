@@ -1,3 +1,5 @@
+Note: Making this Carthage compatible
+
 The Extended Objective-C library extends the dynamism of the Objective-C programming language to support additional patterns present in other programming languages (including those that are not necessarily object-oriented).
 
 libextobjc is meant to be very modular – most of its classes and modules can be used with no more than one or two dependencies.
